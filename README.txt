@@ -1,4 +1,9 @@
-# Sudip Ghimire — Personal Website
+repository
+│
+├── index.html
+├── styles.css
+├── script.js
+└── sudip-ghimire.jpg
 
 A responsive, single-page personal website for:
 Sudip Ghimire
